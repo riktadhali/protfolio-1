@@ -1,0 +1,167 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+margin: 0 px;
+max-width: 96%;
+}
+.bg{
+    
+    background:rgb(71, 29, 69);
+    background-size:cover;
+    position: relative;
+    width: 1500px;
+    
+}
+.navbar-brand{
+    color: aliceblue;
+}
+.nav-link active{
+    color: aliceblue;
+}
+.nav-link{
+    color: aliceblue;
+    text-transform: uppercase;
+    position: relative;
+}
+.clearfix{
+    color: aliceblue;
+    top: 50%;
+    left: 50%;
+
+}
+
+
+.clearfix img{
+    border-radius: 100%;
+}
+
+
+
+
+.rikta{
+    margin-left: 60px;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+.button{
+    max-lines: 20%;
+   top: 20%;
+ margin-left: 20%;
+   right: 30%;
+   height: 30%;
+}
+
+
+.container-text{
+    color:white;
+    margin-top: 50px;
+    
+}
+
+.container-text h1{
+    text-align: center;
+}
+
+.container-text h5{
+    margin-top: 30px;
+}
+
+.container-text h{
+    margin-left: 30px;
+}
+
+
+
+.portfolio-text{
+    margin-top: 50px;
+    margin-bottom: 15px;
+    color: white;
+ }
+ 
+ .portfolio-img{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    grid-gap: 20px;
+ }
+ 
+ .portfolio-grid{
+    background-color: #00ffee;
+    padding: 10px;
+    border-radius: 10px;
+ }
+ .portfolio-grid p{
+    color: #000;
+    margin: 10px 0 10px 0;
+ }
+ .grid-button a button{
+    padding: 10px;
+    border-radius: 5px;
+    margin-right: 10px;
+ }
+
+.text{
+    margin-top: 4rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    
+}
+
+
+.text h6 {
+
+    color: rgb(234, 255, 0);
+}
+.text  H4{
+
+    color: rgb(234, 255, 0);
+}
+
+
+
+ .contact{
+    background-color:rgb(71, 29, 69);
+}
+.contact h1{
+    margin-left :40%;
+}
+.contact p{
+    margin-right:35px;
+    padding-left:15% ;
+}
+.contact button{
+    margin-left :80%;
+}
+.contact ul {
+color: rgba(255, 221, 0, 0.625);
+    text-align:center;
+display:inline-block ;
+}
+
+.contact h1{
+    color: rgba(255, 221, 0, 0.625);
+    margin-top: 2rem;
+
+}
+
+.contact p{
+    color: rgba(255, 221, 0, 0.625);
+  
+
+}
+
+
+.contact ul li{
+    flex: 1;
+    text-align:center;
+    list-style: none;
+    display:inline-block ;
+    margin: 1px 02%;
+    position: relative;
+}
